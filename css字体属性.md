@@ -14,7 +14,7 @@ div {font-family:Arial,"Microsoft yahei","微软雅黑"}
 - 各个字体之间必须用英文状态下的逗号隔开。
 - 一般情况下，如果有空格隔开的多个单词组成的字体，加引号。
 - 尽量使用系统默认自带字体，保证在任何用户的浏览器中都能正确显示。
-- 最常见的几个字体：body {font-family:'Microsoft YaHei',tahoma,arial,'Hiragino Sans GB';}
+- 最常见的几个字体：body {font-family:'Mircosoft YaHei',tahoma,arial,'Hiragino Sans GB';}
 
 ## 2. 字体大小
 
@@ -84,10 +84,8 @@ body {
 | font-style  | 字体样式 | 倾斜是 italic，不倾斜是 normal，最常用 normal                     |
 | font        | 字体连写 | 1.字体连写是有顺序的，不能随意欢位置 2.其中字号和字体必须同事出现 |
 
-```
-css text 属性可定义文本的外观，比如文本的颜色、对其文本、装饰文本、文本缩进、行间距等。
-color 属性用于定义文本的颜色
-```
+**css text 属性可定义文本的外观，比如文本的颜色、对其文本、装饰文本、文本缩进、行间距等。
+color 属性用于定义文本的颜色**
 
 ## 6. 文本颜色
 
