@@ -23,6 +23,7 @@
          执行语句
      }
        2.执行思路   如果if里面的表达式为true，则执行大括号里面的执行语句.
+
        如果if条件表达式结果为false，则不执行大括号里面的语句，就去执行if语句后面的代码
 ```
 
@@ -76,7 +77,7 @@
 ```
       var num = 10;
       var result = num > 5 ? "是的" : "不是的";
-      console.log(result);
+      console.log(result);//是的
 ```
 
 ## 4.【switch】 多分支语句
@@ -103,6 +104,20 @@
 
 - 利用表达式的值和 case 后面的选项值相匹配，如果匹配上就执行该 case 里面的语句。如果都没有匹配上，就执行 default 里面的语句。
 
+```
+例子：
+      var num = 3;
+      switch (num) {
+        case 1:
+          console.log(1);
+          break;
+        case 3:
+          console.log(3);
+          break;
+        default:
+      }
+```
+
 `注意事项：`
 
 1. 开发里面，表达式经常写成变量
@@ -120,7 +135,3 @@
 4. 当分支比较少时，if...else...if 语句的执行效率比 switch 语句高。
 
 5. 当分支比较多时，switch 语句执行的效率比较高，而且结构更清晰。
-
-```
-
-```

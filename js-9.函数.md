@@ -154,6 +154,7 @@ function getSum(num1, num2) {
 
 // 2.函数表达式（匿名函数）
       // var 变量名=function(){};
+
       var fun = function (aru) {
         console.log("我是函数表达式");
         console.log(aru);
@@ -163,6 +164,6 @@ function getSum(num1, num2) {
 
 - fun 是变量名，不是函数名
 
-- 函数声明表达式声明方式和声明变量差不多，只不过变量里面存的是值，而函数表达式里面存的是函数
+- 函数声明表达式的声明方式和声明变量差不多，只不过变量里面存的是值，而函数表达式里面存的是函数
 
 - 函数表达式也可以传递参数
