@@ -82,7 +82,7 @@ alert(Infinity);
 
 alert(-Infinity);
 
-alert(Naw);
+alert(Nan);
 ```
 
 - Infinity，代表无穷大，大于任何数值
