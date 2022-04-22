@@ -44,3 +44,5 @@
 - <a href="./vue/3.webpack & Ajax & Flex.md">3.webpack & Ajax & Flex</a>
 - <a href="./vue/4-Vue基础.md">4-Vue 基础</a>
 - <a href="./vue/5-生命周期&数据共享.md">5-生命周期&数据共享</a>
+- <a href="./vue/6-Vuex.md">6-Vuex</a>
+- <a href="./vue/7-响应式、类和继承、闭包.md">7-响应式、类和继承、闭包</a>
