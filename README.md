@@ -6,6 +6,7 @@
 
 ### CSS
 
+- <a href="./css/0-css3新增特性.md">css3 新增特性</a>
 - <a href="./css/css-1.字体属性.md">css-1.字体属性</a>
 - <a href="./css/css-2.背景.md">css-2.背景</a>
 - <a href="./css/css-3.元素显示模式.md">css-3.元素显示模式</a>
@@ -46,3 +47,6 @@
 - <a href="./vue/5-生命周期&数据共享.md">5-生命周期&数据共享</a>
 - <a href="./vue/6-Vuex.md">6-Vuex</a>
 - <a href="./vue/7-响应式、类和继承、闭包.md">7-响应式、类和继承、闭包</a>
+- <a href="./vue/8-计算属性 & 侦听器.md">8-计算属性 & 侦听器</a>
+- <a href="./vue/9-es6语法.md">9-es6 语法</a>
+- <a href="./vue/10-vue权限管理实现的方法.md">10-vue 权限管理实现的方法</a>
